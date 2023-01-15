@@ -37,9 +37,9 @@
   margin-right: 8px;
 }
 
-.bicicletas-lista-items a:hover h3:before {
+.bicicletas-lista-items a:hover h3::before {
   width: 24px;
-  transition: width .3s;
+  transition: width 0.2s;
 }
 
 .bicicletas-lista-items li {
