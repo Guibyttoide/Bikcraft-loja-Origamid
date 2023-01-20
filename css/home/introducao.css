@@ -28,6 +28,14 @@
   margin-bottom: 20px;
 }
 
+.introducao span {
+  transition: color .5s;
+}
+
+.introducao h1 span:hover {
+  color: var(--cor-p1);
+}
+
 @media  (max-width: 800px) {
   .introducao-bg {
     background: var(--cor-12);

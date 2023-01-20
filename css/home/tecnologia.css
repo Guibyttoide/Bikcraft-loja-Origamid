@@ -54,6 +54,14 @@
   bottom: -4px;
 }
 
+.tecnologia-conteudo span {
+  transition: color .5s;
+}
+
+.tecnologia-conteudo h2 span:hover {
+  color: var(--cor-p1);
+}
+
 .tecnologia-items-container {
   display: flex;
   gap: 40px;

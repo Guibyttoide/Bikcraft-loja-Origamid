@@ -13,6 +13,14 @@
   padding-bottom: 20px;
 }
 
+.header img {
+  transition: 0.3s;
+}
+
+.header img:hover {
+  transform: scaleX(1.05) scaleY(1.05);
+}
+
 .header-menu {
   display: flex;
   flex-wrap: wrap;
