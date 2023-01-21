@@ -131,6 +131,7 @@
 #seguro:checked ~ #orcamento-seguro {
   display: grid;
   gap: 20px;
+  transition: .3s;
 }
 
 .orcamento-detalhes {
@@ -166,7 +167,7 @@
 }
 
 @media (max-width: 800px) {
-  .orcamento {
+  .orcamento-container {
     grid-template-columns: 1fr;
   }
   .orcamento-dados {

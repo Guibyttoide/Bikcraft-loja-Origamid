@@ -26,6 +26,7 @@
 
 .introducao p {
   margin-bottom: 20px;
+  margin-right: 60px;
 }
 
 .introducao span {
@@ -55,5 +56,8 @@
   .introducao img {
     height: 300px;
     width: 100%;
+  }
+  .introducao p {
+    margin-right: 30px;
   }
 }

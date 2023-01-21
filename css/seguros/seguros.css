@@ -71,6 +71,7 @@
   .seguros-container {
     grid-template-columns: 1fr;
     gap: 20px;
+    padding-bottom: 60px;
   }
   .seguros-plano {
     padding: 20px 20px 20px 30px;

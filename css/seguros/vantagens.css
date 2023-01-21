@@ -39,4 +39,8 @@
     gap: 10px 20px;
     align-items: center;
   }
+  .vantagens-container {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
 }
