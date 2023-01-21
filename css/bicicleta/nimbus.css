@@ -2,9 +2,8 @@
   background: var(--cor-11);
 }
 
-.titulo > p {
+.titulo p {
   text-transform: uppercase;
-  font-weight: bold;
 }
 
 .bicicleta-container {

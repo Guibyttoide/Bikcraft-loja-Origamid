@@ -23,6 +23,10 @@
   background: var(--cor-0);
 }
 
+.contato-formulario label span {
+  color: var(--cor-p1);
+}
+
 .contato-dados h2 {
   margin-bottom: 60px;
 }
