@@ -7,10 +7,6 @@
   font-weight: bold;
 }
 
-.titulo > h1 {
-  text-transform: capitalize;
-}
-
 .bicicleta-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
